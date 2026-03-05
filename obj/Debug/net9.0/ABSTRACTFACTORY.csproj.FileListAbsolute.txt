@@ -1,0 +1,14 @@
+C:\Users\ferna\Videos\Patrones\ABSTRACTFACTORY\bin\Debug\net9.0\ABSTRACTFACTORY.exe
+C:\Users\ferna\Videos\Patrones\ABSTRACTFACTORY\bin\Debug\net9.0\ABSTRACTFACTORY.deps.json
+C:\Users\ferna\Videos\Patrones\ABSTRACTFACTORY\bin\Debug\net9.0\ABSTRACTFACTORY.runtimeconfig.json
+C:\Users\ferna\Videos\Patrones\ABSTRACTFACTORY\bin\Debug\net9.0\ABSTRACTFACTORY.dll
+C:\Users\ferna\Videos\Patrones\ABSTRACTFACTORY\bin\Debug\net9.0\ABSTRACTFACTORY.pdb
+C:\Users\ferna\Videos\Patrones\ABSTRACTFACTORY\obj\Debug\net9.0\ABSTRACTFACTORY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\Videos\Patrones\ABSTRACTFACTORY\obj\Debug\net9.0\ABSTRACTFACTORY.AssemblyInfoInputs.cache
+C:\Users\ferna\Videos\Patrones\ABSTRACTFACTORY\obj\Debug\net9.0\ABSTRACTFACTORY.AssemblyInfo.cs
+C:\Users\ferna\Videos\Patrones\ABSTRACTFACTORY\obj\Debug\net9.0\ABSTRACTFACTORY.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Videos\Patrones\ABSTRACTFACTORY\obj\Debug\net9.0\ABSTRACTFACTORY.dll
+C:\Users\ferna\Videos\Patrones\ABSTRACTFACTORY\obj\Debug\net9.0\refint\ABSTRACTFACTORY.dll
+C:\Users\ferna\Videos\Patrones\ABSTRACTFACTORY\obj\Debug\net9.0\ABSTRACTFACTORY.pdb
+C:\Users\ferna\Videos\Patrones\ABSTRACTFACTORY\obj\Debug\net9.0\ABSTRACTFACTORY.genruntimeconfig.cache
+C:\Users\ferna\Videos\Patrones\ABSTRACTFACTORY\obj\Debug\net9.0\ref\ABSTRACTFACTORY.dll
